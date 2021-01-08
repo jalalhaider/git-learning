@@ -1,0 +1,3 @@
+[submodule "rider-api"]
+	path = rider-api
+	url = https://jhaider1@bitbucket.org/jhaider1/sarat-rider-api.git
